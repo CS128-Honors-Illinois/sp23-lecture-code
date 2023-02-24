@@ -5,5 +5,6 @@ members = [
     "lecture5",
     "lecture7",
     "lecture8",
-    "lecture10"
+    "lecture10",
+    "lecture11"
 ]
